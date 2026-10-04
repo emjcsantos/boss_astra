@@ -1,0 +1,26 @@
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+.codex/
+
+# Development artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.scratch/
+tmp/
+*.log
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
