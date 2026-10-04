@@ -1,0 +1,12 @@
+{
+  "name": "boss-astra",
+  "interface": { "displayName": "Boss Astra" },
+  "plugins": [
+    {
+      "name": "boss-astra",
+      "source": { "source": "local", "path": "./plugins/boss-astra" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
