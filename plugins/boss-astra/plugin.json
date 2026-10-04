@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "boss-astra",
+  "version": "0.1.1",
+  "description": "Astra orchestration with bounded Luna and Sol delegation.",
+  "author": { "name": "emjcsantos" },
+  "repository": "https://github.com/emjcsantos/boss_astra",
+  "license": "MIT"
+}
